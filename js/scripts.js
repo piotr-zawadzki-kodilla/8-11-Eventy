@@ -1,4 +1,4 @@
-var list = document.getElementById('Lista');
+var list = document.getElementById('newList');
 	add = document.getElementById('addElem');
 
 add.addEventListener('click', function() {
